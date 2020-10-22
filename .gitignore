@@ -1,0 +1,8 @@
+# Ignore temporal directories containing
+# python's cache
+# training and test information
+
+__pycache__
+__tmp__
+
+.DS_Store
